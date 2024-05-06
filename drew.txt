@@ -1,0 +1,8 @@
+Report for Drew (Truck):
+Hour    Distance Traveled
+-----------------------
+1       60
+2       120
+3       180
+4       240
+5       300

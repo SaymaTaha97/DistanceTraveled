@@ -1,0 +1,6 @@
+Report for Anna (Train):
+Hour    Distance Traveled
+-----------------------
+1       40
+2       80
+3       120
